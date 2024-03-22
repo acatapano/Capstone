@@ -30,6 +30,10 @@
 		{
 			"Name": "tt",
 			"Enabled": false
+		},
+		{
+			"Name": "SkeletalMeshModelingTools",
+			"Enabled": true
 		}
 	]
 }
